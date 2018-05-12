@@ -1,4 +1,4 @@
-# NtrepidTest
+# Test
 This project is used to find the largest number of 3 consecutive paths visited by x number of different users.
 For simplicity, I have mimicked a web server's log file and just picked out the User name and the paths that he/she visited.
 
